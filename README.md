@@ -1,5 +1,5 @@
-<H3>Name:Safeeq Fazil A</H3>
-<H3>Register No:212222240086</H3>
+<H3>Name:Jeyabalan T</H3>
+<H3>Register No:212222240040</H3>
 <H3>Experiment 2</H3>
 <H3>Date:</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
